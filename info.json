@@ -1,0 +1,13 @@
+{
+  "title": "Cloudflare Tunnel",
+  "name": "cftunnel",
+  "ps": "Publish a localhost port through Cloudflare. Named hostname or a quick link.",
+  "versions": "1.6",
+  "checks": "/www/server/panel/plugin/cftunnel",
+  "author": "Phalcosoft",
+  "home": "",
+  "date": "2026-10-13",
+  "type": "plugin",
+  "display": 0,
+  "default": false
+}
